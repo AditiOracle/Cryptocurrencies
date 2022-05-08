@@ -1,5 +1,6 @@
 # Cryptocurrencies
 Unsupervised ML
+
 **MODULE 18**
 
 **CHALLENGE**
@@ -18,5 +19,13 @@ The data need to be processed to fit the machine learning models. Since there is
 **RESULTS:**
 
 - The K-Means comes out to be 4 using Elbow Curve
+
+![](https://github.com/AditiOracle/Cryptocurrencies/blob/main/Resources/Elbow_Curve.PNG)
+
 - The 3D-Scatter with the PCA data and the clusters
+
+![](https://github.com/AditiOracle/Cryptocurrencies/blob/main/Resources/3D_Scatter_PCA.PNG)
+
 - The hvplot.scatter plot using x=&quot;TotalCoinsMined&quot; and y=&quot;TotalCoinSupply&quot; for scaleddata.
+
+![](https://github.com/AditiOracle/Cryptocurrencies/blob/main/Resources/hvplot_scatter_scaleddata.PNG)
